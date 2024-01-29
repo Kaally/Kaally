@@ -6,7 +6,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 &nbsp; Aprendendo mais sobre **NodeJS**.
-- 👨‍💻 Desenvolvedor de software focado em aplicações, dados e sistemas.
+- 👨‍💻 Desenvolvedor de software focado em aplicações com chat bots e automação.
 ---
 
 ## Minhas Skills
