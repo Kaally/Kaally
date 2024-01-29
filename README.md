@@ -2,20 +2,19 @@
   <img src="https://i.pinimg.com/originals/2e/2b/97/2e2b97b6d744c9d17ca878c900fad4e3.jpg" />
 </div>
 
-<h3>Sobre mim</h3>
+# Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌱 &nbsp; Aprendendo mais sobre **NodeJS**.
 - 👨‍💻 Desenvolvedor de software focado em aplicações, dados e sistemas.
+---
 
-**Minhas Skills**
+## Minhas Skills
 
 <h3>Onde me encontrar</h3>
 
-[![GitHub](https://img.shields.io/badge/-Kaally-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kaally)
-[![Gmail Badge](https://img.shields.io/badge/-kaikygomesribeiroof%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kaikygomesribeiroof@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-+5595991264582-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5595991264582)
-[![Instagram](https://img.shields.io/badge/-kaikygr-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kaikygr/)
+[![Gmail Badge](https://img.shields.io/badge/-kaikygomesribeiroof%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kaikygomesribeiroof@gmail.com) 
+[![WhatsApp](https://img.shields.io/badge/-+5595991264582-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5595991264582)  [![Instagram](https://img.shields.io/badge/-kaikygr-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kaikygr/)
 
 
 **Aplicações e dados**
