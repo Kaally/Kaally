@@ -24,7 +24,6 @@
 **Utilidades**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=8DD6F9)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=FF9800)
 
