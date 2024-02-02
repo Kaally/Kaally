@@ -54,13 +54,29 @@
 
 </br>
 
-<h3>Status</h3>
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaally&theme=radical&border=7F3FBF&background=0D1117" alt="Kaally GitHub streak"/>
+  </a>
 
-<a href="https://github.com/kaally">
-<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaally&layout=compact&langs_count=7&theme=dracula"/>
-</br>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Kaally&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<a> 
+    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kaally&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Kaally"><img alt="Kaally Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kaally&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
 </a>
+
+
+![Kaally Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaally&custom_title=Kaally%20%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+</p>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: )" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+<hr/>
+<br/>
+
 
 
 
